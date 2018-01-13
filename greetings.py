@@ -6,4 +6,3 @@ print 'Good Night !'
 
 print 'Sweet Dreams'
 
-print 'Good morning'
