@@ -1,7 +1,7 @@
-print 'Good Afternoon'
+print 'Good Afternoon !'
 
-print 'Good Evening'
+print 'Good Evening!'
 
-print 'Good Night'
+print 'Good Night !'
 
-print 'Sweet Dreams'
+print 'Sweet Dreams !'
